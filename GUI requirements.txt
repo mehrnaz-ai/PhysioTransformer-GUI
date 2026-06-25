@@ -1,0 +1,19 @@
+# PhysioTransformer-GUI — Python Dependencies
+# Install with: pip install -r requirements.txt
+# Python 3.11 recommended
+
+# Deep learning (CPU version — remove +cpu for GPU)
+torch==2.0.1+cpu
+torchvision==0.15.2+cpu
+
+# GUI and visualization
+matplotlib==3.7.2          # plots inside tkinter window
+# tkinter is included with Python — no separate install needed
+
+# Data processing
+numpy==1.24.3
+pandas==2.0.3
+
+# Note: tkinter is part of the Python standard library.
+# If you get "No module named tkinter" on Linux, run:
+#   sudo apt-get install python3-tk
