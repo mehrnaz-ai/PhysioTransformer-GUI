@@ -209,7 +209,7 @@ Main research code (training, evaluation, figures):
 ## Contact
 
 **Corresponding author:**
-Prof. Farhad Daryanoosh — [daryanoosh@shirazu.ac.ir](mailto:daryanoosh@shirazu.ac.ir)
+Prof. Farhad Daryanoosh — [daryanooshf@shirazu.ac.ir](mailto:daryanoosh@shirazu.ac.ir)
 Department of Sport Science, Shiraz University, Iran
 
 -----
