@@ -1,7 +1,6 @@
-================================================================================
-                                LT-Predict GUI
-     Interactive Lactate Threshold Predictor — PhysioTransformer Demo
-================================================================================
+LT-Predict GUI
+Interactive Lactate Threshold Predictor — PhysioTransformer Demo
+===========
 
 An interactive desktop application for non-invasive lactate threshold (LT)
 estimation using the PhysioTransformer deep learning model.
@@ -179,4 +178,3 @@ This project is licensed under the MIT License — see LICENSE file.
 
 The pretrained model weights are released for research and educational use only,
 consistent with the terms of the original dataset (Zenodo DOI: 10.5281/zenodo.10841412).
-================================================================================
