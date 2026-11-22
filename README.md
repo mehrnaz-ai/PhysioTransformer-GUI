@@ -1,6 +1,6 @@
 # LT-Predict GUI
 
-**Interactive Lactate Threshold Predictor — PhysioTransformer Demo**
+**Interactive Lactate Threshold Predictor (Demo)**
 
 [![Python 3.11](https://img.shields.io/badge/python-3.11-blue.svg)](https://www.python.org/downloads/release/python-3110/)
 [![PyTorch](https://img.shields.io/badge/PyTorch-2.0-orange.svg)](https://pytorch.org/)
@@ -24,7 +24,7 @@ Enter heart rate and performance data from an incremental exercise test to recei
 
 > **Eskandarisani, M., & Daryanoosh, F.**  
 > *Can AI Predict Lactate Thresholds Without Blood Samples? Deep Learning Succeeds Within Sports but Fails Across Movement Modalities.*  
-> **Status:** Under Review at *Computers in Biology and Medicine*.  
+> **Status:** Under Review   
 > **Preprint DOI:** [10.21203/rs.3.rs-10811779/v1](https://doi.org/10.21203/rs.3.rs-10811779/v1)[cite: 48]
 
 ---
