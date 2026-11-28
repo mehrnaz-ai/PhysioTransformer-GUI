@@ -1,4 +1,4 @@
-# LT-Predict GUI
+# PhysioTransformer GUI
 
 **Interactive Lactate Threshold Predictor (Demo)**
 
